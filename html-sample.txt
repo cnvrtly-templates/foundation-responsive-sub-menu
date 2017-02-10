@@ -1,0 +1,22 @@
+<!--NAV START-->
+<div tagy-cms-shared-id="top-nav">
+    <nav data-magellan-expedition="fixed" style="z-index: 5;width: 100%; padding: 5px;border-bottom: solid 3px #ccc; background-size: cover; background-image: url('images/_templates_sites_cnvrtly_cnvrtly-big-image-header-post_background-1.jpg')"
+         class="editable-body_background-color top-nav responsive-menu editable-top_nav-color" tagy-cms-editable="[shared] nav background" editable-props="background-image">
+        <div class="row">
+            <a href="/"><img tagy-cms-editable="[shared] menu image icon" class="menu-logo-icon" src="images/_templates_sites_cnvrtly_cnvrtly-big-image-header-post_logo-icon.png"/></a>
+            <div class="responsive-menu-icon-show text-size-2x">&#9776; MENU</div>
+            <div class="responsive-menu-icon-hide text-size-4x">&#215;</div>
+            <div  tagy-cms-editable="[shared] nav ul">
+                <ul class="sub-nav" style="margin-bottom: 0px;">
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">home</a></li>
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">blog</a></li>
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">blog</a></li>
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">blog</a></li>
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">blog</a></li>
+                    <li style="margin: 10px 20px 0px 20px; font-size: 1.3em;"><a href="#">blog</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+<!--NAV END-->
